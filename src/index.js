@@ -11,6 +11,6 @@ render(
     document.querySelector("#hello-example"),
 );
 
-console.log("yo");
-console.log("test");
-console.log("test");
+//console.log("yo");
+//console.log("test");
+//console.log("test");
